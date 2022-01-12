@@ -1,6 +1,10 @@
 # iHome1.0
 基于Flask实现的租房项目
 
+博客地址：https://blog.csdn.net/geek_xiong/article/details/100108834
+
+视频： https://www.bilibili.com/video/BV1zb411m7uS?from=search&seid=4852626862903634172&spm_id_from=333.337.0.0
+
 ## 基于flask实现的c2c租房项目
 
 
